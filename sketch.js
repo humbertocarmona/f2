@@ -15,7 +15,7 @@ let	Engine = Matter.Engine,
 	Vector = Matter.Vector;
 
 
-const windowX=1200,
+var windowX=1200,
 	  windowY=500;
 let engine,
 	world, 
